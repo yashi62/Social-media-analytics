@@ -1,0 +1,6 @@
+interaction_id,user_id,post_id,interaction_type
+1,1,1,like
+2,1,2,share
+3,2,2,like
+4,3,3,comment
+5,2,1,like
